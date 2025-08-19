@@ -1,6 +1,6 @@
 
 <h1>  Hi there, I'm Kenny 👋
-<br/><a href="https://github.com/KennyOgun/kenny">Data Expert</a>, <a href="https://www.linkedin.com/in/kennyogundana/">Data Scientist & Analyst Professional</a>
+<br/><a href="https://github.com/KennyOgun/kenny">Data Expert</a>, <a href="https://www.linkedin.com/in/kennyogundana/">Data Analyst, Scientist & MLOPs Professional</a>
 
 # About Me
 
