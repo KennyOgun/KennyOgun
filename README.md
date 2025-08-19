@@ -1,6 +1,6 @@
 
 <h1>  Hi there, I'm Kenny 👋
-<br/><a href="https://github.com/KennyOgun/kenny">Data Expert</a>, <a href="https://www.linkedin.com/in/kennyogundana/">Data Analyst, Scientist & MLOPs Professional</a>
+<br/><a href="https://github.com/KennyOgun/kenny">Data Expert</a>, <a href="https://www.linkedin.com/in/kennyogundana/">Data Analyst, Scientist & MLOPs Engineer Professional</a>
 
 # About Me
 
@@ -77,6 +77,9 @@ With strong proficiency in Excel, Python, SQL, Power BI, and Tableau, I have a s
 - <b>Financial Market Prediction and Investment Strategy Optimization</b>
   - [Financial Market Prediction](https://github.com/KennyOgun/financial_market_prediction_investment_strategy_optimization)
   
+
+
+# <h2>👨‍💻 MLOPs & GENAI Projects:</h2>
 
 # 📫 Let's Connect!
 
