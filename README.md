@@ -62,7 +62,7 @@ With strong proficiency in Excel, Python, SQL, Power BI, and Tableau, I have a s
 
 * Creativity in Designing User-Centric Solutions
 
-# <h2>👨‍💻 Data Science Projects:</h2>
+# <h2>👨‍💻 Data Science & MLOPs Projects:</h2>
 
  
 
@@ -79,7 +79,10 @@ With strong proficiency in Excel, Python, SQL, Power BI, and Tableau, I have a s
   
 
 
-# <h2>👨‍💻 MLOPs & GENAI Projects:</h2>
+# <h2>👨‍💻 AI Agent, Agentic AI, & GENAI Projects:</h2>
+
+- <b>AI Financial Information & Analysis Agents </b>
+  - [AI Financial Information & Analysis Agents](https://github.com/KennyOgun/ai-financial-agents/blob/main/README.md)
 
 # 📫 Let's Connect!
 
